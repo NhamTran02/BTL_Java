@@ -1,0 +1,1 @@
+Student{id=1, tên='Nhâm', ngày sinh=02/02/2002, địa chỉ='hn', chiều cao=165.0, cân nặng=54.0 mã sinh viên='1234567890', tên trường='hnm', năm học=2020, điểm trung bình=7.0, học lực= Khá}
